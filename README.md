@@ -24,6 +24,7 @@ Um website moderno e responsivo desenvolvido apenas com HTML e CSS vanilla, sem 
 - Media Queries para responsividade
 
 ## 📂 Estrutura do Projeto
+
 website-pure-htmlcss/
 ├── assets/
 │   ├── css/
